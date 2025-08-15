@@ -1,1 +1,1 @@
-Another line meant to cause a merge conflict
+Other text
