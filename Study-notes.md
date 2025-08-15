@@ -17,3 +17,7 @@ Push takes you changes to the top level (your current branch), Pull brings other
 
 **Above is from August 12, 2025**
 
+there's a chance I lost a file, I legit can't remember if I had more notes 8/14/2025
+We will likely write in a format or structure soon to change
+8/14/2025 - Waking up and studying again at desmond house.
+
